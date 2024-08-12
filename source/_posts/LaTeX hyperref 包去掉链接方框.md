@@ -1,0 +1,3 @@
+```tex
+\usepackage[hidelinks]{hyperref}
+```
